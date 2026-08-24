@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/scabber098/scabber098/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/scabber098/scabber098/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/scabber098/scabber098/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/scabber098/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/scabber098/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/scabber098/scabber098/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
@@ -36,6 +37,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/scabber098/scabber098/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/scabber098/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/scabber098/scabber098/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/scabber098/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Math
@@ -133,4 +135,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/scabber098/Leetcode/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
