@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/scabber098/scabber098/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/scabber098/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/scabber098/scabber098/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/scabber098/scabber098/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/scabber098/scabber098/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Hash Table
@@ -42,6 +43,7 @@
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/scabber098/scabber098/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/scabber098/scabber098/tree/main/0013-roman-to-integer/) | Easy |
+| [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/scabber098/scabber098/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/scabber098/scabber098/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/scabber098/scabber098/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -109,12 +111,26 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/scabber098/scabber098/tree/main/0010-regular-expression-matching/) | Hard |
+| [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/scabber098/scabber098/tree/main/1927-sum-game/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/scabber098/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 <!---LeetCode Topics End-->
