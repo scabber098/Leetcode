@@ -14,6 +14,7 @@
 | [0027-remove-element](https://github.com/scabber098/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/scabber098/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0036-valid-sudoku](https://github.com/scabber098/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/scabber098/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/scabber098/scabber098/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/scabber098/scabber098/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -28,6 +29,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/scabber098/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/scabber098/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0036-valid-sudoku](https://github.com/scabber098/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/scabber098/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/scabber098/scabber098/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/scabber098/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Greedy
@@ -138,6 +140,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/scabber098/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0037-sudoku-solver](https://github.com/scabber098/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,4 +183,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/scabber098/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/scabber098/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/scabber098/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/scabber098/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
