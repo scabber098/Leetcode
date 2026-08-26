@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/scabber098/scabber098/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/scabber098/scabber098/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/scabber098/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/scabber098/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/scabber098/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/scabber098/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/scabber098/scabber098/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -42,6 +43,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/scabber098/scabber098/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/scabber098/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/scabber098/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/scabber098/scabber098/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/scabber098/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/scabber098/Leetcode/tree/main/0027-remove-element/) | Easy |
@@ -148,6 +150,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/scabber098/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/scabber098/Leetcode/tree/main/0018-4sum/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
