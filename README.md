@@ -23,6 +23,7 @@
 | [0012-integer-to-roman](https://github.com/scabber098/scabber098/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/scabber098/scabber098/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/scabber098/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/scabber098/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/scabber098/scabber098/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/scabber098/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Greedy
@@ -63,6 +64,7 @@
 | [0014-longest-common-prefix](https://github.com/scabber098/scabber098/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/scabber098/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/scabber098/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/scabber098/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [1927-sum-game](https://github.com/scabber098/scabber098/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/scabber098/Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Simulation
@@ -165,5 +167,6 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/scabber098/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/scabber098/Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 <!---LeetCode Topics End-->
