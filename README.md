@@ -77,6 +77,7 @@
 | [0013-roman-to-integer](https://github.com/scabber098/scabber098/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/scabber098/scabber098/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/scabber098/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/scabber098/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/scabber098/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/scabber098/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [1927-sum-game](https://github.com/scabber098/scabber098/tree/main/1927-sum-game/) | Medium |
@@ -137,6 +138,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/scabber098/scabber098/tree/main/0010-regular-expression-matching/) | Hard |
+| [0022-generate-parentheses](https://github.com/scabber098/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -147,6 +149,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/scabber098/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/scabber098/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/scabber098/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
@@ -208,4 +211,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/scabber098/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/scabber098/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
