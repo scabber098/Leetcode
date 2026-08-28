@@ -20,6 +20,7 @@
 | [0036-valid-sudoku](https://github.com/scabber098/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/scabber098/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/scabber098/Leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/scabber098/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/scabber098/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/scabber098/scabber098/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
@@ -166,6 +167,7 @@
 | [0022-generate-parentheses](https://github.com/scabber098/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/scabber098/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/scabber098/Leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/scabber098/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
