@@ -3,42 +3,35 @@ import java.util.*;
 class Solution {
     public int[] lexicographicallySmallestArray(int[] nums, int limit) {
         int n = nums.length;
-
         int[] sorted = nums.clone();
         Arrays.sort(sorted);
 
-        Map<Integer, List<Integer>> groups = new HashMap<>();
-        Map<Integer, Integer> groupMap = new HashMap<>();
+        Map<Integer, ArrayDeque<Integer>> map = new HashMap<>();
 
-        int group = 0;
-        groups.put(group, new ArrayList<>());
+        for (int i = 0; i < n;) {
+            int j = i + 1;
 
-        groups.get(group).add(sorted[0]);
-        groupMap.put(sorted[0], group);
-
-        for (int i = 1; i < n; i++) {
-            if (sorted[i] - sorted[i - 1] > limit) {
-                group++;
-                groups.put(group, new ArrayList<>());
+            while (j < n && sorted[j] - sorted[j - 1] <= limit) {
+                j++;
             }
 
-            groups.get(group).add(sorted[i]);
-            groupMap.put(sorted[i], group);
+            ArrayDeque<Integer> queue = new ArrayDeque<>();
+
+            for (int k = i; k < j; k++) {
+                queue.offer(sorted[k]);
+            }
+
+            for (int k = i; k < j; k++) {
+                map.put(sorted[k], queue);
+            }
+
+            i = j;
         }
-
-        Map<Integer, Queue<Integer>> values = new HashMap<>();
-
-        for (int key : groups.keySet()) {
-            values.put(key, new LinkedList<>(groups.get(key)));
-        }
-
-        int[] result = new int[n];
 
         for (int i = 0; i < n; i++) {
-            int currentGroup = groupMap.get(nums[i]);
-            result[i] = values.get(currentGroup).poll();
+            nums[i] = map.get(nums[i]).poll();
         }
 
-        return result;
+        return nums;
     }
 }
