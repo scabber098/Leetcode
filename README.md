@@ -78,6 +78,7 @@
 | [0012-integer-to-roman](https://github.com/scabber098/scabber098/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/scabber098/scabber098/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/scabber098/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
+| [0043-multiply-strings](https://github.com/scabber098/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/scabber098/scabber098/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/scabber098/scabber098/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -95,6 +96,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/scabber098/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/scabber098/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0038-count-and-say](https://github.com/scabber098/Leetcode/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/scabber098/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0567-permutation-in-string](https://github.com/scabber098/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0686-repeated-string-match](https://github.com/scabber098/Leetcode/tree/main/0686-repeated-string-match/) | Medium |
 | [1927-sum-game](https://github.com/scabber098/scabber098/tree/main/1927-sum-game/) | Medium |
@@ -104,6 +106,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/scabber098/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/scabber098/scabber098/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
