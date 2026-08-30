@@ -26,6 +26,7 @@
 | [0045-jump-game-ii](https://github.com/scabber098/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/scabber098/scabber098/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/scabber098/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/scabber098/Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/scabber098/scabber098/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/scabber098/scabber098/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -53,6 +54,7 @@
 | [0045-jump-game-ii](https://github.com/scabber098/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/scabber098/scabber098/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1927-sum-game](https://github.com/scabber098/scabber098/tree/main/1927-sum-game/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/scabber098/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/scabber098/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
