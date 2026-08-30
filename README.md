@@ -26,6 +26,7 @@
 | [0045-jump-game-ii](https://github.com/scabber098/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/scabber098/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/scabber098/Leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0048-rotate-image](https://github.com/scabber098/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/scabber098/scabber098/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/scabber098/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -86,6 +87,7 @@
 | [0013-roman-to-integer](https://github.com/scabber098/scabber098/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/scabber098/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/scabber098/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0048-rotate-image](https://github.com/scabber098/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/scabber098/scabber098/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/scabber098/scabber098/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -242,6 +244,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/scabber098/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/scabber098/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
+| [0048-rotate-image](https://github.com/scabber098/Leetcode/tree/main/0048-rotate-image/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
