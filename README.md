@@ -126,6 +126,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/scabber098/scabber098/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/scabber098/scabber098/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/scabber098/scabber098/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/scabber098/Leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
