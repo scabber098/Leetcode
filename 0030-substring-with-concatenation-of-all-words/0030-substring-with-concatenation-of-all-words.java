@@ -1,64 +1,68 @@
+import java.util.*;
+
 class Solution {
     public List<Integer> findSubstring(String s, String[] words) {
-
         List<Integer> ans = new ArrayList<>();
 
+        int n = s.length();
         int wordLen = words[0].length();
         int wordCount = words.length;
         int totalLen = wordLen * wordCount;
 
-        // Required frequency of each word
-        HashMap<String, Integer> required = new HashMap<>();
+        if (n < totalLen) return ans;
+
+        Map<String, Integer> id = new HashMap<>();
+        int[] required = new int[words.length];
+        int unique = 0;
 
         for (String word : words) {
-            required.put(word, required.getOrDefault(word, 0) + 1);
+            Integer index = id.get(word);
+
+            if (index == null) {
+                index = unique++;
+                id.put(word, index);
+            }
+
+            required[index]++;
         }
 
-        // Try every possible alignment
         for (int offset = 0; offset < wordLen; offset++) {
-
             int left = offset;
-            int right = offset;
             int count = 0;
+            int[] current = new int[unique];
 
-            HashMap<String, Integer> current = new HashMap<>();
-
-            while (right + wordLen <= s.length()) {
-
+            for (int right = offset; right + wordLen <= n; right += wordLen) {
                 String word = s.substring(right, right + wordLen);
-                right += wordLen;
+                Integer index = id.get(word);
 
-                // Word doesn't exist
-                if (!required.containsKey(word)) {
-                    current.clear();
+                if (index == null) {
+                    Arrays.fill(current, 0);
                     count = 0;
-                    left = right;
+                    left = right + wordLen;
                     continue;
                 }
 
-                // Add word to window
-                current.put(word, current.getOrDefault(word, 0) + 1);
+                current[index]++;
                 count++;
 
-                // Too many copies of this word
-                while (current.get(word) > required.get(word)) {
-
+                while (current[index] > required[index]) {
                     String remove = s.substring(left, left + wordLen);
+                    int removeIndex = id.get(remove);
 
-                    current.put(remove, current.get(remove) - 1);
-                    left += wordLen;
+                    current[removeIndex]--;
                     count--;
+                    left += wordLen;
                 }
 
-                // All words are present
                 if (count == wordCount) {
                     ans.add(left);
 
-                    // Move forward to search for next answer
                     String remove = s.substring(left, left + wordLen);
-                    current.put(remove, current.get(remove) - 1);
-                    left += wordLen;
+                    int removeIndex = id.get(remove);
+
+                    current[removeIndex]--;
                     count--;
+                    left += wordLen;
                 }
             }
         }
