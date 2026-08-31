@@ -27,6 +27,7 @@
 | [0046-permutations](https://github.com/scabber098/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/scabber098/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/scabber098/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/scabber098/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/scabber098/scabber098/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/scabber098/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -45,6 +46,7 @@
 | [0036-valid-sudoku](https://github.com/scabber098/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/scabber098/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/scabber098/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/scabber098/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0567-permutation-in-string](https://github.com/scabber098/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/scabber098/scabber098/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/scabber098/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -107,6 +109,7 @@
 | [0038-count-and-say](https://github.com/scabber098/Leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/scabber098/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0044-wildcard-matching](https://github.com/scabber098/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
+| [0049-group-anagrams](https://github.com/scabber098/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0567-permutation-in-string](https://github.com/scabber098/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0686-repeated-string-match](https://github.com/scabber098/Leetcode/tree/main/0686-repeated-string-match/) | Medium |
 | [1927-sum-game](https://github.com/scabber098/scabber098/tree/main/1927-sum-game/) | Medium |
@@ -213,6 +216,7 @@
 | [0016-3sum-closest](https://github.com/scabber098/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/scabber098/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/scabber098/Leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/scabber098/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/scabber098/Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
