@@ -28,6 +28,7 @@
 | [0047-permutations-ii](https://github.com/scabber098/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/scabber098/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/scabber098/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/scabber098/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/scabber098/scabber098/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/scabber098/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -199,6 +200,7 @@
 | [0040-combination-sum-ii](https://github.com/scabber098/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/scabber098/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/scabber098/Leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/scabber098/Leetcode/tree/main/0051-n-queens/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +258,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/scabber098/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
+| [0051-n-queens](https://github.com/scabber098/Leetcode/tree/main/0051-n-queens/) | Hard |
 ## Dancing Links
 | Problem Name | Difficulty |
 | ------- | ------- |
