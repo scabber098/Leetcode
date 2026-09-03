@@ -93,6 +93,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/scabber098/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/scabber098/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/scabber098/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/scabber098/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0567-permutation-in-string](https://github.com/scabber098/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/scabber098/Leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Math
@@ -149,6 +150,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/scabber098/scabber098/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/scabber098/scabber098/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/scabber098/scabber098/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0061-rotate-list](https://github.com/scabber098/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/scabber098/Leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
