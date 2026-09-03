@@ -104,6 +104,7 @@
 | [0043-multiply-strings](https://github.com/scabber098/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/scabber098/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/scabber098/Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/scabber098/Leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/scabber098/scabber098/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/scabber098/scabber098/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -158,6 +159,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/scabber098/scabber098/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/scabber098/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/scabber098/Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/scabber098/Leetcode/tree/main/0060-permutation-sequence/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
