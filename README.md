@@ -134,6 +134,7 @@
 | [0044-wildcard-matching](https://github.com/scabber098/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/scabber098/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/scabber098/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0065-valid-number](https://github.com/scabber098/Leetcode/tree/main/0065-valid-number/) | Hard |
 | [0212-word-search-ii](https://github.com/scabber098/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0567-permutation-in-string](https://github.com/scabber098/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0686-repeated-string-match](https://github.com/scabber098/Leetcode/tree/main/0686-repeated-string-match/) | Medium |
