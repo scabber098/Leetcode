@@ -38,6 +38,7 @@
 | [0063-unique-paths-ii](https://github.com/scabber098/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/scabber098/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/scabber098/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0068-text-justification](https://github.com/scabber098/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0212-word-search-ii](https://github.com/scabber098/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/scabber098/scabber098/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
@@ -140,6 +141,7 @@
 | [0058-length-of-last-word](https://github.com/scabber098/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/scabber098/Leetcode/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/scabber098/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/scabber098/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0212-word-search-ii](https://github.com/scabber098/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0567-permutation-in-string](https://github.com/scabber098/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0686-repeated-string-match](https://github.com/scabber098/Leetcode/tree/main/0686-repeated-string-match/) | Medium |
@@ -154,6 +156,7 @@
 | [0054-spiral-matrix](https://github.com/scabber098/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/scabber098/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/scabber098/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/scabber098/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/scabber098/scabber098/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
