@@ -36,6 +36,7 @@
 | [0057-insert-interval](https://github.com/scabber098/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/scabber098/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/scabber098/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/scabber098/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0212-word-search-ii](https://github.com/scabber098/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/scabber098/scabber098/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
@@ -217,6 +218,7 @@
 | [0055-jump-game](https://github.com/scabber098/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/scabber098/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/scabber098/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/scabber098/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -294,6 +296,7 @@
 | [0054-spiral-matrix](https://github.com/scabber098/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/scabber098/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/scabber098/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/scabber098/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0212-word-search-ii](https://github.com/scabber098/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/scabber098/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Algorithm X
