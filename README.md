@@ -82,6 +82,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/scabber098/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/scabber098/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/scabber098/scabber098/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/scabber098/scabber098/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/scabber098/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -113,6 +114,7 @@
 | [0060-permutation-sequence](https://github.com/scabber098/Leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/scabber098/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/scabber098/Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/scabber098/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/scabber098/scabber098/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/scabber098/scabber098/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -137,6 +139,7 @@
 | [0049-group-anagrams](https://github.com/scabber098/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/scabber098/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/scabber098/Leetcode/tree/main/0065-valid-number/) | Hard |
+| [0067-add-binary](https://github.com/scabber098/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0212-word-search-ii](https://github.com/scabber098/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0567-permutation-in-string](https://github.com/scabber098/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0686-repeated-string-match](https://github.com/scabber098/Leetcode/tree/main/0686-repeated-string-match/) | Medium |
@@ -150,6 +153,7 @@
 | [0043-multiply-strings](https://github.com/scabber098/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/scabber098/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/scabber098/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0067-add-binary](https://github.com/scabber098/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/scabber098/scabber098/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
