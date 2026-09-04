@@ -37,6 +37,7 @@
 | [0059-spiral-matrix-ii](https://github.com/scabber098/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/scabber098/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/scabber098/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0066-plus-one](https://github.com/scabber098/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0212-word-search-ii](https://github.com/scabber098/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/scabber098/scabber098/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
@@ -111,6 +112,7 @@
 | [0050-powx-n](https://github.com/scabber098/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/scabber098/Leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/scabber098/Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/scabber098/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/scabber098/scabber098/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/scabber098/scabber098/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
