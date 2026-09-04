@@ -116,6 +116,7 @@
 | [0062-unique-paths](https://github.com/scabber098/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/scabber098/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/scabber098/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0070-climbing-stairs](https://github.com/scabber098/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/scabber098/scabber098/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/scabber098/scabber098/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -229,6 +230,7 @@
 | [0062-unique-paths](https://github.com/scabber098/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/scabber098/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/scabber098/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0070-climbing-stairs](https://github.com/scabber098/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -354,4 +356,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/scabber098/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/scabber098/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
