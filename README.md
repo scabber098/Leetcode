@@ -144,6 +144,7 @@
 | [0065-valid-number](https://github.com/scabber098/Leetcode/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/scabber098/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/scabber098/Leetcode/tree/main/0068-text-justification/) | Hard |
+| [0071-simplify-path](https://github.com/scabber098/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0212-word-search-ii](https://github.com/scabber098/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0567-permutation-in-string](https://github.com/scabber098/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0686-repeated-string-match](https://github.com/scabber098/Leetcode/tree/main/0686-repeated-string-match/) | Medium |
@@ -342,6 +343,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/scabber098/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/scabber098/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0071-simplify-path](https://github.com/scabber098/Leetcode/tree/main/0071-simplify-path/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
