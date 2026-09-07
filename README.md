@@ -42,6 +42,7 @@
 | [0073-set-matrix-zeroes](https://github.com/scabber098/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/scabber098/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/scabber098/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/scabber098/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0212-word-search-ii](https://github.com/scabber098/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/scabber098/scabber098/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
@@ -90,6 +91,7 @@
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/scabber098/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/scabber098/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/scabber098/Leetcode/tree/main/0078-subsets/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/scabber098/scabber098/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/scabber098/scabber098/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/scabber098/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -266,6 +268,7 @@
 | [0051-n-queens](https://github.com/scabber098/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/scabber098/Leetcode/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/scabber098/Leetcode/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/scabber098/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0212-word-search-ii](https://github.com/scabber098/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
