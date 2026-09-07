@@ -265,6 +265,7 @@
 | [0047-permutations-ii](https://github.com/scabber098/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/scabber098/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/scabber098/Leetcode/tree/main/0052-n-queens-ii/) | Hard |
+| [0077-combinations](https://github.com/scabber098/Leetcode/tree/main/0077-combinations/) | Medium |
 | [0212-word-search-ii](https://github.com/scabber098/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
