@@ -44,6 +44,7 @@
 | [0075-sort-colors](https://github.com/scabber098/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/scabber098/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/scabber098/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/scabber098/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0212-word-search-ii](https://github.com/scabber098/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [1032-stream-of-characters](https://github.com/scabber098/Leetcode/tree/main/1032-stream-of-characters/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/scabber098/scabber098/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -223,6 +224,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/scabber098/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/scabber098/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/scabber098/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/scabber098/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/scabber098/scabber098/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
