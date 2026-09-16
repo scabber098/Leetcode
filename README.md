@@ -45,6 +45,7 @@
 | [0078-subsets](https://github.com/scabber098/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/scabber098/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/scabber098/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/scabber098/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0212-word-search-ii](https://github.com/scabber098/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [1032-stream-of-characters](https://github.com/scabber098/Leetcode/tree/main/1032-stream-of-characters/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/scabber098/scabber098/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -378,6 +379,7 @@
 | [0020-valid-parentheses](https://github.com/scabber098/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/scabber098/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/scabber098/Leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/scabber098/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -386,6 +388,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/scabber098/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/scabber098/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -419,4 +422,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/scabber098/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/scabber098/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
