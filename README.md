@@ -165,6 +165,7 @@
 | [0071-simplify-path](https://github.com/scabber098/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/scabber098/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/scabber098/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0087-scramble-string](https://github.com/scabber098/Leetcode/tree/main/0087-scramble-string/) | Hard |
 | [0115-distinct-subsequences](https://github.com/scabber098/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0212-word-search-ii](https://github.com/scabber098/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0567-permutation-in-string](https://github.com/scabber098/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -264,6 +265,7 @@
 | [0070-climbing-stairs](https://github.com/scabber098/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/scabber098/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/scabber098/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0087-scramble-string](https://github.com/scabber098/Leetcode/tree/main/0087-scramble-string/) | Hard |
 | [0115-distinct-subsequences](https://github.com/scabber098/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/scabber098/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1872-stone-game-viii](https://github.com/scabber098/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
