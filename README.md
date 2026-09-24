@@ -48,6 +48,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/scabber098/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/scabber098/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/scabber098/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0090-subsets-ii](https://github.com/scabber098/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0198-house-robber](https://github.com/scabber098/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0212-word-search-ii](https://github.com/scabber098/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [1032-stream-of-characters](https://github.com/scabber098/Leetcode/tree/main/1032-stream-of-characters/) | Hard |
@@ -100,6 +101,7 @@
 | [0067-add-binary](https://github.com/scabber098/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/scabber098/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/scabber098/Leetcode/tree/main/0089-gray-code/) | Medium |
+| [0090-subsets-ii](https://github.com/scabber098/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/scabber098/scabber098/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/scabber098/scabber098/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/scabber098/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -298,6 +300,7 @@
 | [0077-combinations](https://github.com/scabber098/Leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/scabber098/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/scabber098/Leetcode/tree/main/0089-gray-code/) | Medium |
+| [0090-subsets-ii](https://github.com/scabber098/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0212-word-search-ii](https://github.com/scabber098/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
